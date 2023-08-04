@@ -5,7 +5,7 @@ markdown: kramdown
 url: 
 
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: http://website-xjdb5ywwxv6855zhp.s3-website-us-east-1.amazonaws.com
+baseurl:
 
 
 # Title of the Site
